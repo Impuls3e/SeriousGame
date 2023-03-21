@@ -1,0 +1,241 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.16f1 (4016570cf34f) revision 4200023'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'en' Physical Memory: 16178 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/SeloGame1/SeriousGame/HappyKids
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51298
+Successfully changed project path to: D:/SeloGame1/SeriousGame/HappyKids
+D:/SeloGame1/SeriousGame/HappyKids
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [6204] Host "[IP] 192.168.1.33 [Port] 0 [Flags] 2 [Guid] 4060686513 [EditorId] 4060686513 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-5AGV24U) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [6204] Host "[IP] 192.168.1.33 [Port] 0 [Flags] 2 [Guid] 4060686513 [EditorId] 4060686513 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-5AGV24U) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 123.93 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.16f1 (4016570cf34f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/SeloGame1/SeriousGame/HappyKids/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x191b)
+    Vendor:   Intel
+    VRAM:     8089 MB
+    Driver:   21.20.16.4526
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56532
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.014103 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 116.94 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Domain Reload Profiling:
+	ReloadAssembly (995ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (736ms)
+			LoadAssemblies (101ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (149ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (472ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (92ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (117ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (163ms)
+				ProcessInitializeOnLoadMethodAttributes (98ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011949 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\SeloGame1\SeriousGame\HappyKids\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\SeloGame1\SeriousGame\HappyKids\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 131.28 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.857 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1858ms)
+		BeginReloadAssembly (328ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (137ms)
+		EndReloadAssembly (1371ms)
+			LoadAssemblies (146ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (356ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (101ms)
+			SetupLoadedEditorAssemblies (713ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (25ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (131ms)
+				BeforeProcessingInitializeOnLoad (159ms)
+				ProcessInitializeOnLoadAttributes (329ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 2.25 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4051 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 44 unused Assets / (229.4 KB). Loaded Objects now: 4503.
+Memory consumption went from 150.9 MB to 150.6 MB.
+Total: 6.164600 ms (FindLiveObjects: 0.378400 ms CreateObjectMapping: 0.340500 ms MarkObjects: 5.248600 ms  DeleteObjects: 0.195700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 78456.487953 seconds.
+  path: Assets/Levels.prefab
+  artifactKey: Guid(660cf22efef9ef144b372e69aac41705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels.prefab using Guid(660cf22efef9ef144b372e69aac41705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa3358dae5f526c934b02a6b825fec53') in 0.089492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/easter-cake-seamless-pattern-vector-illustration-flat-cartoon-style-design-easter-textiles-wrapping-paper_225753-1952.jpg
+  artifactKey: Guid(3034102bd26f4a244809bc3c5864bad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/easter-cake-seamless-pattern-vector-illustration-flat-cartoon-style-design-easter-textiles-wrapping-paper_225753-1952.jpg using Guid(3034102bd26f4a244809bc3c5864bad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce421c0025a66e55af74a1ad3cfa1a8a') in 0.476394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/disleksi.asset
+  artifactKey: Guid(340c6197a28b6a9458f6e752a9eda34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/disleksi.asset using Guid(340c6197a28b6a9458f6e752a9eda34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f8c25dd41a73140ce54dd7b9d2cd51e') in 0.091011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.149518 seconds.
+  path: Assets/BackG.prefab
+  artifactKey: Guid(ca1f13b9e80686d4781ed8d00f74f6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BackG.prefab using Guid(ca1f13b9e80686d4781ed8d00f74f6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df51284fce6405a86c379bb35bb729b4') in 0.017736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Pickup.mp3
+  artifactKey: Guid(2b5b1fdbed0ef1b4aa3c85ac10280c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pickup.mp3 using Guid(2b5b1fdbed0ef1b4aa3c85ac10280c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f3d3d70aa2aa171d6737abb26ba109') in 0.047970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/mickey-mouse-donald-duck-and-gofy-sailing-on-the-river-desktop-wallpaper-hd-download-free-1920×1200-wallpaper-preview.jpg
+  artifactKey: Guid(046b5031de9d36744b3d4a92edf61156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mickey-mouse-donald-duck-and-gofy-sailing-on-the-river-desktop-wallpaper-hd-download-free-1920×1200-wallpaper-preview.jpg using Guid(046b5031de9d36744b3d4a92edf61156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b4e07426587912174744ff0528c987') in 0.080035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.809280 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c23e514d24f6b65fe96946cd87fc526') in 0.009600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.802025 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8026e6bb85ace54affd7e38f3dc7d2a') in 0.009392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.926037 seconds.
+  path: Assets/activitygame
+  artifactKey: Guid(232a0cc5ce91bc34eb83339c37843807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/activitygame using Guid(232a0cc5ce91bc34eb83339c37843807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f402ef4d0caa5c86ee15add912084f0') in 0.009457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.963043 seconds.
+  path: Assets/activitygame/Activity_Scenes
+  artifactKey: Guid(d88bf4da999bb394ca823cca9696dc60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/activitygame/Activity_Scenes using Guid(d88bf4da999bb394ca823cca9696dc60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50cd89db6d38ea0da9b0166df30b6453') in 0.012237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.661691 seconds.
+  path: Assets/activitygame/Activity_Scenes/0xsahne.prefab
+  artifactKey: Guid(e5627b31688b5d44ab47cba33b49afe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/activitygame/Activity_Scenes/0xsahne.prefab using Guid(e5627b31688b5d44ab47cba33b49afe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b9bb5091f9346cda0d2cbad355bebef') in 0.009532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.489860 seconds.
+  path: Assets/activitygame/Activity_Scenes/activity1.unity
+  artifactKey: Guid(1570c2d8709906642ad14f2b65c99718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/activitygame/Activity_Scenes/activity1.unity using Guid(1570c2d8709906642ad14f2b65c99718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aaafe257cae3a3bc01a94607504913e') in 0.011237 seconds 
